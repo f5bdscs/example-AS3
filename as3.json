@@ -6,7 +6,7 @@
     "remark": "Simple HTTP application with round robin pool",
     "next-cm-tenant01": {
         "class": "Tenant",
-        "next-cm-app01": {
+        "EXAMPLE_APP": {
             "class": "Application",
             "template": "http",
             "serviceMain": {
